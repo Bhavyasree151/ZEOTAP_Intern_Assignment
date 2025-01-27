@@ -7,8 +7,8 @@ This repository contains the solutions to the Zeotap intern assignment, comprisi
 - **Objective:**
   Performed EDA on the provided dataset to derive actionable business insights.
 - **Steps:**
-  1. Conducted a detailed analysis of the data, including visualization and statistical summaries.
-  2. Derived at least 5 business insights.
+  - Conducted a detailed analysis of the data, including visualization and statistical summaries.
+  - Derived at least 5 business insights.
 - **Deliverables:**
   - A Jupyter Notebook/Python script containing the EDA code.
   - A PDF report (maximum 500 words) summarizing the business insights.
